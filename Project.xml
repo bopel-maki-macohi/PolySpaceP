@@ -4,7 +4,7 @@
 	
 	<!-- _________________________________ Custom _______________________________ -->
 	
-	<define name="FLX_CUSTOM_ASSETS_DIRECTORY" value="assets" />
+	<define name="FLX_CUSTOM_ASSETS_DIRECTORY" value="assets" if="desktop debug"/>
 
 	<!-- _________________________ Application Settings _________________________ -->
 	
